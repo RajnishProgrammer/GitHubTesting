@@ -20,7 +20,7 @@ Short project description goes here.
 Provide step-by-step installation instructions here.
 
   ```bash
-    $ npm install your-package
+  npm install your-package
 
 ## Contributing
   Contributions are welcome! Please follow the guidelines in CONTRIBUTING.md.
