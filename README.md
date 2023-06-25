@@ -19,17 +19,17 @@ Short project description goes here.
 
 Provide step-by-step installation instructions here.
 
-```bash
-$ npm install your-package
+  ```bash
+  $ npm install your-package
 
-Contributing
-Contributions are welcome! Please follow the guidelines in CONTRIBUTING.md.
+## Contributing
+  Contributions are welcome! Please follow the guidelines in CONTRIBUTING.md.
 
-License
-This project is licensed under the MIT License.
+## License
+  This project is licensed under the MIT License.
 
 
-In this example, the README file includes the following elements:
+## In this example, the README file includes the following elements:
 
 1. Project title.
 2. License badge indicating the project's license (in this case, the MIT License).
