@@ -19,7 +19,6 @@ Short project description goes here.
 
 Provide step-by-step installation instructions here.
 
-    ```bash
     npm install your-package
   
 ## Contributing
